@@ -1,5 +1,3 @@
-I'm leargning this coding from Code Explaind(Youtube Chaneel).
-If you interested in , subscribe now.
-
-Code Explained Youtube URL:
-https://www.youtube.com/channel/UC8n8ftV94ZU_DJLOLtrpORA
+I used to HTML / CSS / JavaScript.
+No framework, no libraries.
+Thank you.
