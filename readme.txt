@@ -1,3 +1,3 @@
-I used to HTML / CSS / JavaScript.
+I created this game  HTML / CSS / JavaScript.
 No framework, no libraries.
 Thank you.
